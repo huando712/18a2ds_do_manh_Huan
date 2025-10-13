@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Company>
+ <Employee>
+  <FirstName>Nguyễn</FirstName>
+  <LastName>Văn A</LastName>
+  <ContactNo>0901234567</ContactNo>
+  <Email>van.a@uneti.edu.vn</Email>
+  <Address>
+   <City>Hà Nội</City>
+   <District>Hai Bà Trưng</District>
+   <Ward>Vĩnh Tuy</Ward>
+   <Street>Minh Khai</Street>
+   <HouseNumber>456</HouseNumber>
+  </Address>
+ </Employee>
+</Company>
